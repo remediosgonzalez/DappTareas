@@ -8,7 +8,7 @@
 * Truffle: Contrato inteligente
   * sudo npm install -g truffle@5.0.2
 * Ganache: Blockchain local
-  * https://truffleframework.com/ganache
+  * https://archive.trufflesuite.com/ganache/
   * sudo npm install -g ganache-cli
 * Chrome
 * Metamask
