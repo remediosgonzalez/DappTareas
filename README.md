@@ -71,10 +71,10 @@
 
 
 
-Donate BTC: 1CtGeYX6u6hAZpn4diMqaAqXxDd9SvLRH3
+Donate BTC: bc1q2svc54cwxvjurhreyaqsr7yz7qjrgqj32w6t6j
 
-Donate LTC: LPAT7e6WWGd7VozFa5fxQ2EBKqvgqDxh1R
+Donate LTC: LNXW92kHfdzd14Uzo5FjBcS6Z8XpLNubFb
 
-Donate ETH: 0x77ce86302c85af1d9fe7f63db37f37ef14f5756d
+Donate ETH: 0xf7f9a460C29E1FeEB54315F25C13422DE0Fe2eC1
 
-Donate BSV: 1N1AkEBAoyiiMwbnAHKGMGDqF7c7w9vMve
+Donate BSV: 17fRUsaehfT4Ev6A6K9bswoPAi4jF8D8gj
